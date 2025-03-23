@@ -9,6 +9,7 @@ import Cs1 from '../views/cs1.vue';
 import Cs2 from '../views/cs2.vue';
 import Cs3 from '../views/cs3.vue';
 import Policies from '../views/policies.vue';
+import AdminProjects from '../views/adminProjects.vue';
 import Contacts from '../views/contacts.vue';
 import Login from '../views/login.vue';
 import Signup from '../views/signup.vue';
@@ -25,6 +26,7 @@ const routes = [
     { path: '/cs2', component: Cs2 },
     { path: '/cs3', component: Cs3 },
     { path: '/policies', component: Policies },
+    { path: '/adminProjects', component: AdminProjects },
     { path: '/contacts', component: Contacts },
     { path: '/login', component: Login },
     { path: '/signup', component: Signup },

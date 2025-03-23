@@ -17,6 +17,7 @@
               <ul class="dropdown-menu">
                 <li @click="navigateTo('/login')" class="dropdown-item">Login</li>
                 <li @click="navigateTo('/signup')" class="dropdown-item">Signup</li>
+                <li @click="navigateTo('/adminProjects')" class="dropdown-item">Projects/Submissions</li>
               </ul>
             </OverlayPanel>
           </div>
