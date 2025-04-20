@@ -88,6 +88,9 @@
                   <div class="select-wrapper">
                     <select v-model="formData.department" required>
                       <option value="" disabled selected>Select Department</option>
+                      <option value="elementary">Elementary</option>
+                      <option value="juniorHighschool">Junior Highschool</option>
+                      <option value="seniorHighschool">Senior Highschool</option>
                       <option value="engineering">Engineering</option>
                       <option value="science">Science</option>
                       <option value="arts">Arts</option>

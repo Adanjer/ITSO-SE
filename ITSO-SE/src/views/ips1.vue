@@ -55,12 +55,14 @@
                 <label>Contact Number</label>
                 <input type="tel" v-model="formData.contactNumber" required />
               </div>
-    
               <div class="form-group half">
                 <label>Department</label>
                 <div class="select-wrapper">
                   <select v-model="formData.department" required>
                     <option value="" disabled selected>Select Department</option>
+                    <option value="elementary">Elementary</option>
+                    <option value="juniorHighschool">Junior Highschool</option>
+                    <option value="seniorHighschool">Senior Highschool</option>
                     <option value="engineering">Engineering</option>
                     <option value="science">Science</option>
                     <option value="arts">Arts</option>
@@ -75,7 +77,6 @@
         </form>
       </div>
     </div>
-    
     <!-- Fixed buttons at the bottom -->
     <div class="fixed-buttons">
       <button type="button" class="btn btn-back" @click="goBack">Back</button>

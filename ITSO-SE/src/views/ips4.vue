@@ -33,7 +33,7 @@
           </div>
 
           <div class="section-container">
-            <h2 class="section-title">Inventor Information</h2>
+            <h2 class="section-title">Applicant Information</h2>
             <div class="review-grid">
               <div class="review-item">
                 <div class="review-label">Full Name</div>
