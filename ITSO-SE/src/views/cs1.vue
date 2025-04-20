@@ -91,11 +91,16 @@
                       <option value="elementary">Elementary</option>
                       <option value="juniorHighschool">Junior Highschool</option>
                       <option value="seniorHighschool">Senior Highschool</option>
-                      <option value="engineering">Engineering</option>
-                      <option value="science">Science</option>
-                      <option value="arts">Arts</option>
-                      <option value="business">Business</option>
-                      <option value="medicine">Medicine</option>
+                      <option value="engineering">College of Accounting and Business Education</option>
+                      <option value="science">College of Arts and Humanities</option>
+                      <option value="arts">College of Computer Studies</option>
+                      <option value="business">College of Engineering and Architecture</option>
+                      <option value="medicine">College of Human Environment Science and Food Studies</option>
+                      <option value="medicine">College of Medical and Biological Sciences</option>
+                      <option value="medicine">College of Music</option>
+                      <option value="medicine">College of Nursing</option>
+                      <option value="medicine">College of Pharmacy and Chemistry</option>
+                      <option value="medicine">College of Teacher Education</option>
                     </select>
                     <div class="select-arrow">▼</div>
                   </div>
